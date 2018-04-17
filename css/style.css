@@ -5,6 +5,7 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
+  background-color: #e5efff;
   }
 
   .headerlogo {
@@ -21,8 +22,9 @@ html, body {
 }
 
 .largeimage{
-  width: 550px;
+  width: 500px;
   height: auto;
+  border-radius: 8px;
 }
 .navbar {
   padding: .8rem;
@@ -92,7 +94,12 @@ html, body {
   padding-top: 2rem;
 }
 
-
+.welcome hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
 
 
 
