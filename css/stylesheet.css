@@ -1,3 +1,10 @@
+html, body {
+    height: 100;
+    width: 100;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+/*
 .corporateimage, .welcomeimage {
     width: 350px;
     height: auto;
@@ -10,3 +17,4 @@
     width: 550px;
     height: auto;
 }
+*/
